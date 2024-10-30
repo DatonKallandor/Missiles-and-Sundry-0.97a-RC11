@@ -1,0 +1,45 @@
+Old (0.72a):
+
+Reaper Single		90s Reload		30s refire
+Reaper Medium		70s Reload		25s Refire
+Reaper Large		90s Reload (2per)	20s Refire (2per)
+Atropos Single		60s Reload		20s Refire
+Atropos Double		45s Reload		15s Refire
+Swarmer SRM		10s Reload (4per)	5s Refire (4per)
+Annihilator Small	15s Reload (5per)	5s Refire (5per)
+Annihilator Med		15s Reload (10per)	0.5s Refire
+Prox Charge		5s Reload		3s Refire
+
+Single Missiles		60s Reload		20s Refire
+Triple Missiles		50s Reload		15s Refire
+Missile Pods		90s Reload (4per)	20s Refire (4per)
+Double Salamander	60s Reload (2per)	10s Refire (2per)
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+New (0.8a RC19) (outdated):
+
+Reaper Single		120s Reload		30s Refire
+Reaper Medium		90s Reload		25s Refire
+Reaper Large		100s Reload (2per)	20s Refire (2per)
+
+Atropos Single		60s Reload		20s Refire
+Atropos Double		45s Reload		15s Refire
+
+Hammer (Single)		60s Reload		20s Refire
+Hammer (Double)		45s Reload		2s  Refire
+Hammer (Barrage/Quad)	60s Reload (2 per)	20s Refire (4per)
+
+Swarmer SRM		10s Reload (4per)	5s Refire (4per)
+Annihilator Small	15s Reload (5per)	5s Refire (5per)
+Annihilator Med		15s Reload (10per)	0.5s Refire
+Prox Charge		5s Reload		3s Refire
+
+Single Missiles		60s Reload		20s Refire
+Triple Missiles		50s Reload		15s Refire
+Missile Pods		60s Reload (4per)	20s Refire (4per)
+
+Hurricane MIRV		40s Reload		10s Refire
+Squall MLRS		30s Reload (10 per)	15s Refire (20 per)
+Locust SRM (Large)	30s Reload (20 per)	5s Refire (20 per)
